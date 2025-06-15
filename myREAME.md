@@ -1,10 +1,4 @@
-output_jelly_grid_v_damping_scale 0.999 38.08 dB
-output_jelly_n grid 25 
-output_jelly_substep_dt 3e-05 37.97 dB
 
-output_metal_grid_v_damping_scale 0.9994 43.53 dB
-output_metal_n grid 60 40.19 dB
-output_metal_substep_dt 3e-05 43.03 dB
 
 ## Part 1
 
