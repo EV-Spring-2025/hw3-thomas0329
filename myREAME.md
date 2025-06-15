@@ -54,6 +54,7 @@ Train the model by minimizing the loss between the material embedding and the pr
 
 ### youtube video
 
+https://youtu.be/MtN_EzKoZiE?si=cCWpVx3LFfEW6ij3
 
 ### How I adjusted the parameters
 Add new or adjust existing parameters in config files. PSNR values are averaged accross all frames.
